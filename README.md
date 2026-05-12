@@ -61,7 +61,7 @@ Buyer funds escrow → Seller delivers with proof → Funds auto-released
 
 `Next.js` `Express.js` `PostgreSQL` `Prisma` `React Native` `Railway` `Vercel`
 
-**[→ payhold.ng](https://payhold.ng)**
+**[→ payhold.ng](https://payhold.vercel.app)**
 
 ---
 
@@ -93,7 +93,7 @@ Buyer funds escrow → Seller delivers with proof → Funds auto-released
 - 🔧 Shipping **PayHold** mobile app (React Native · Expo)
 - 🏗️ Expanding PayHold into **real estate** and **logistics** verticals  
 - 📖 Building **Muqaddimah** — a YouTube documentary series on Ibn Khaldun  
-- 🌐 Portfolio live at [21stdev-portfolio.vercel.app](https://21stdev-portfolio.vercel.app)
+- 🌐 Portfolio live at [21stdev-portfolio](https://21stdeveloper.vercel.app)
 
 ---
 
