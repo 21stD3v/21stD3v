@@ -1,7 +1,5 @@
 <div align="center">
-
-# Night
-
+  
 **`@21stDev`**
 
 Full-stack engineer building trust infrastructure for African commerce.  
